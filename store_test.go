@@ -16,8 +16,8 @@ import (
 	"runtime"
 	"testing"
 
+	"github.com/b-tarczynski/badgerhold/v4"
 	v3 "github.com/timshannon/badgerhold/v3"
-	"github.com/timshannon/badgerhold/v4"
 )
 
 func TestOpen(t *testing.T) {

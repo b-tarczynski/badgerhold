@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"testing"
 
+	"github.com/b-tarczynski/badgerhold/v4"
 	"github.com/dgraph-io/badger/v3"
-	"github.com/timshannon/badgerhold/v4"
 )
 
 type BenchData struct {

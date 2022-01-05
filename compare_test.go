@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/timshannon/badgerhold/v4"
+	"github.com/b-tarczynski/badgerhold/v4"
 )
 
 type CItemTest struct {
